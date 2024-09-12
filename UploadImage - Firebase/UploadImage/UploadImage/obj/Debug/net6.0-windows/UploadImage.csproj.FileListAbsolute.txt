@@ -1,0 +1,56 @@
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage.csproj.AssemblyReference.cache
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\obj\Debug\net6.0-windows\App.g.cs
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage_MarkupCompile.cache
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage_MarkupCompile.lref
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\bin\Debug\net6.0-windows\UploadImage.exe
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\bin\Debug\net6.0-windows\UploadImage.deps.json
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\bin\Debug\net6.0-windows\UploadImage.runtimeconfig.json
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\bin\Debug\net6.0-windows\UploadImage.dll
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\bin\Debug\net6.0-windows\UploadImage.pdb
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\obj\Debug\net6.0-windows\MainWindow.baml
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage.g.resources
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage.GeneratedMSBuildEditorConfig.editorconfig
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage.AssemblyInfoInputs.cache
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage.AssemblyInfo.cs
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage.csproj.CoreCompileInputs.cache
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage.csproj.CopyComplete
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage.dll
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\obj\Debug\net6.0-windows\refint\UploadImage.dll
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage.pdb
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage.genruntimeconfig.cache
+D:\destop\FPT\ki7\PRN221\UploadImage\UploadImage\UploadImage\obj\Debug\net6.0-windows\ref\UploadImage.dll
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\bin\Debug\net6.0-windows\UploadImage.exe
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\bin\Debug\net6.0-windows\UploadImage.deps.json
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\bin\Debug\net6.0-windows\UploadImage.runtimeconfig.json
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\bin\Debug\net6.0-windows\UploadImage.dll
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\bin\Debug\net6.0-windows\UploadImage.pdb
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage.csproj.AssemblyReference.cache
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\obj\Debug\net6.0-windows\App.g.cs
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage_MarkupCompile.cache
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage_MarkupCompile.lref
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\obj\Debug\net6.0-windows\MainWindow.baml
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage.g.resources
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage.GeneratedMSBuildEditorConfig.editorconfig
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage.AssemblyInfoInputs.cache
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage.AssemblyInfo.cs
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage.csproj.CoreCompileInputs.cache
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage.csproj.CopyComplete
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage.dll
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\obj\Debug\net6.0-windows\refint\UploadImage.dll
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage.pdb
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\obj\Debug\net6.0-windows\UploadImage.genruntimeconfig.cache
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\obj\Debug\net6.0-windows\ref\UploadImage.dll
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\bin\Debug\net6.0-windows\Firebase.dll
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\bin\Debug\net6.0-windows\Firebase.Storage.dll
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\bin\Debug\net6.0-windows\LiteDB.dll
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\bin\Debug\net6.0-windows\System.Reactive.dll
+D:\destop\FPT\ki7\PRN221\UploadImage - Firebase\UploadImage\UploadImage\bin\Debug\net6.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
